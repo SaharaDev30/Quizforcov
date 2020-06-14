@@ -1,0 +1,41 @@
+
+    <resources>
+        <string name="app_name">QuizApp</string>
+        <string name="tit">Quiz questions for COVID19</string>
+        <string name="q1">  الأعراض:</string>
+        <string name="q1_a">حمى</string>
+        <string name="q1_b">سعال جديد أو اصبح أسوء</string>
+        <string name="q1_c">ضيق في تنفس جديد أو أصبح أسوء</string>
+        <string name="q1_d">التهاب في الحلق أو/و سيلان الأنف</string>
+        <string name="q1_e">غثيان أو قيء أو اسهال</string>
+        <string name="q1_f">فقدان مفاجئ وكلي لحاسة الشم</string>
+        <string name="q1_ans">c</string>
+
+        <string name="q2">  مرض مزمن:</string>
+        <string name="q2_a">فشل كلوي</string>
+        <string name="q2_b">مرض قلب</string>
+        <string name="q2_c">داء السكري</string>
+        <string name="q2_d">مراة حامل</string>
+        <string name="q2_e">سرطان</string>
+        <string name="q2_ans">c</string>
+
+        <string name="q3">  العمر:</string>
+        <string name="q3_a">65-70</string>
+        <string name="q3_b">70-80</string>
+        <string name="q3_c">أكبر من 80</string>
+        <string name="q3_ans">c</string>
+
+        <string name="q4">  خطر العدوى:</string>
+        <string name="q4_a">الاحتكاك المقرب (٢٠ دقيقة على الأقل بمسافة أقل من واحد متر) بشخص تأكدت إصابته في ١٤ يوم السابقة للاعراض</string>
+        <string name="q4_b">العمل في ميدان الصحة</string>
+        <string name="q4_c">زيارة مؤسسة صحية تعالج الكوفيد في ١٤ يوم السابقة</string>
+        <string name="q4_ans">c</string>
+
+        <string name="q6">Quiz question for COVID19: \n خطر العدوى:</string>
+        <string name="q6_a">Python</string>
+        <string name="q6_b">R</string>
+        <string name="q6_c">Java</string>
+        <string name="q6_d">Both A and B</string>
+        <string name="q6_ans">d</string>
+    </resources>
+

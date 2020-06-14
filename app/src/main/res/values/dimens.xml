@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_title">35sp</dimen>
+    <dimen name="question">22sp</dimen>
+    <dimen name="question_no">35sp</dimen>
+    <dimen name="button_margin">1dp</dimen>
+    <dimen name="rf">30dp</dimen>
+    <dimen name="edez">40dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
